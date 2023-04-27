@@ -1,14 +1,10 @@
-30 Days of Streamlit
-
-Start the Challenge 👇
-
-Day 2
+# Day 2
 
 About the #30DaysOfStreamlit
 
 🗓️ Day 2
 
-Building my first Streamlit app
+## Building my first Streamlit app
 
 Fire up your IDE
 
